@@ -1,0 +1,38 @@
+.input {
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 20px;
+    margin-top: 30px;
+    margin-left: 40px;
+    box-shadow: 1px 1px 16px 1px rgba(25,5,31,0.76) ;
+    padding: 3px;
+}
+h2{
+    text-align: center;
+}
+hr {
+    margin-top: 40px;
+}
+
+.button {
+    background: gray;
+    color: white;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 16px 1px rgba(25,5,31,0.76) ;
+}
+
+#todo {
+    list-style: none;
+    border: 1px solid gray;
+}
+
+.line {
+    text-decoration: line-through;
+    font-weight: bold;
+
+
+}
+
+
